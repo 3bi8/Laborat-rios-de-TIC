@@ -10,5 +10,5 @@
 		idade1 = ano_a - ano_n;
 		idade2050: 2050 - ano_n;
 		printf("Actualmente você tem:\n%i anos de idade\nEm 2050 você terá:\n%i anos de idade.",idade1,idade2050);
-	
+		return 0;
 	}
